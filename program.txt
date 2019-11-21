@@ -11,3 +11,5 @@ maven
 
 mvc 
 intell ideja
+ inheritance 
+ polymorphism
